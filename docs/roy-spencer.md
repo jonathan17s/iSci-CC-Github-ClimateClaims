@@ -3,7 +3,7 @@ title: <Climate Claims Part 2>
 layout: default
 nav_order: 1 
 ---
-# **Climate as a Tool of Division**
+# **Climate Denial as a Tool of Division**
 
 **Jonathan Spence**
 
